@@ -12,9 +12,9 @@ function About() {
         
         <p>I am a Kansas City based Full Stack Web Developer. I am a junior web developer with good knowledge of front-end and back-end techniques.</p>
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Enim sit amet venenatis urna cursus eget nunc scelerisque. Adipiscing vitae proin sagittis nisl. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Enim neque volutpat ac tincidunt vitae. Fringilla est ullamcorper eget nulla. Sit amet aliquam id diam maecenas ultricies mi eget. Est sit amet facilisis magna etiam tempor orci eu lobortis. Porttitor leo a diam sollicitudin tempor id eu nisl. Viverra justo nec ultrices dui sapien.
+         🌎 👩‍💻 🚀
 </p><p>
-Vel turpis nunc eget lorem. Fringilla urna porttitor rhoncus dolor purus non enim praesent. Nunc non blandit massa enim nec dui nunc mattis. Ut tellus elementum sagittis vitae et leo duis. Ornare massa eget egestas purus viverra. Nunc id cursus metus aliquam eleifend mi in. Mi proin sed libero enim. Urna duis convallis convallis tellus id. Nunc vel risus commodo viverra maecenas. Vitae semper quis lectus nulla at volutpat diam ut. Nullam ac tortor vitae purus faucibus. Nullam eget felis eget nunc lobortis mattis aliquam. Amet dictum sit amet justo donec enim diam vulputate. Lectus quam id leo in vitae turpis massa. Lacinia at quis risus sed vulputate odio.
+I went to KU coding bootcamp and learned alot during my time there. I spend my days with my hands in many different parts of web development from back-end programming (Java, javaScript, mySQL and OOP) to front-end (HTML, CSS and jQuery). Im also familiar with graphQL. I enjoy spending my free-time with my husband and son, camping, watching sports(football) and playing video games.
     </p>
       </div>  
       </div>

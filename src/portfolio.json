@@ -1,41 +1,41 @@
 [{	
 	"id": 1,
-	"name": "Tech Blog",
-	"image": "",
-	"github": "https://github.com/AlainaRosendahl/14challenge-tech-blog",
-	"deploy": " https://bibliotheque-saucisson-37360.herokuapp.com/",
+	"name": "Password Generator",
+	"image": "https://user-images.githubusercontent.com/101417047/163077685-926fe6e7-1ced-4001-b5ff-2fe4a932858c.png",
+	"github": "https://github.com/AlainaRosendahl/03challenge-password-generator",
+	"deploy": "https://alainarosendahl.github.io/03challenge-password-generator/",
 	"topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
 	},
 	{
 	"id": 2,
 	"name": "Work Day Scheduler",
-	"image": "",
-	"github": "",
-	"deploy": "",
+	"image": "https://github.com/AlainaRosendahl/05challenge-work-day-scheduler/raw/main/assets/images/work-day.png",
+	"github": "https://github.com/AlainaRosendahl/05challenge-work-day-scheduler",
+	"deploy": "https://alainarosendahl.github.io/05challenge-work-day-scheduler/",
 	"topics": "moment.js, javascript, bootstrap, jQuery"
 	},
 	{
 	"id": 3,
 	"name": "HTML/CSS Portfolio",
-	"image": "",
-	"github": "",
-    "deploy": "",
+	"image": "https://user-images.githubusercontent.com/101417047/183136242-9d72b415-acaa-435a-8b18-9b7b44715b85.png",
+	"github": "https://github.com/AlainaRosendahl/professional-portfolio",
+    "deploy": "https://alainarosendahl.github.io/professional-portfolio/",
     "topics": "html5, css3, bootstrap"
     },
     {
-        "id": 6,
-        "name": "Note Taker",
-        "image": "",
-        "github": "r",
-        "deploy": "",
-        "topics": "node, express, javascript, bootstrap"
-        },
-        {
-        "id": 7,
-        "name": "Budget Tracker",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
-        }
+    "id": 4,
+    "name": "Note Taker",
+    "image": "https://user-images.githubusercontent.com/101417047/171712441-0b7ffa88-e9fa-4a71-bb99-745c8f63efae.png",
+    "github": "https://github.com/AlainaRosendahl/11challenge-note-taker",
+    "deploy": "https://murmuring-ocean-58715.herokuapp.com/",
+    "topics": "node, express, javascript, bootstrap"
+    },
+    {
+    "id": 5,
+    "name": "Budget Tracker",
+    "image": "https://user-images.githubusercontent.com/101417047/181133222-db64edb5-1340-4792-9571-773b9d83a50a.png",
+    "github": "https://github.com/AlainaRosendahl/19challenge-PWA-budget-tracker",
+    "deploy": "https://shielded-everglades-70831.herokuapp.com/",
+    "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+}
 ]        
