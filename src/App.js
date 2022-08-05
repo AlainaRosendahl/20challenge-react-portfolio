@@ -1,20 +1,18 @@
 import React from 'react';
-import Nav from './components/Nav';
-import About from './components/About';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
+// Run app
 function App() {
+
   return (
-    <div>
-      <Nav></Nav>
-      <main>
-        <About></About>
-      </main>
+    <div className="App">
+      <Header/>
       <Footer/>
     </div>
   );
 }
-
 
 export default App;
