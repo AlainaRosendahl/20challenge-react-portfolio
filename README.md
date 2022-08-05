@@ -21,6 +21,8 @@
   Please dont.
   ## Testing:
   Image provided here:
+<img width="1422" alt="Screen Shot 2022-08-05 at 2 02 58 PM" src="https://user-images.githubusercontent.com/101417047/183144174-ab0ac785-0951-4920-84e2-ac94cb0feda9.png">
+
   ## Additional Info:
   - Github: [AlainaRosendahl](https://github.com/AlainaRosendahl)
   - Email: elenarosendahl16@gmail.com
