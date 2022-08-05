@@ -1,22 +1,3 @@
-// import React from 'react'
-// import personalImage from "../../assets/cover/IMG_6180.JPG";
-
-// function About() {
-
-//   return (
-//     <section className="my-5" >
-//       <h1 id="about">I'm Alaina Rosendahl.</h1>
-//       <img src={personalImage} className="my-2" style={{ width: "15%" }} alt="cover" />
-//       <div className="my-2">
-//         <p>
-//           I am a Kansas City based Full Stack Web Developer. I am a junior web developer with good knowledge of front-end and back-end techniques.
-//       </p>
-//       </div>
-//     </section>
-//   )
-// }
-
-// export default About;
 import React from 'react';
 
 function About() {
@@ -27,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img class="mb-5" id="avatar" src='./assets/cover/IMG_6180.JPG'></img>
+            <img class="mb-5" id="avatar" src='https://avatars.githubusercontent.com/u/101417047?s=400&u=1d57a1eff4844f0097b4e45d98750f145cc987c9&v=4' alt='Alaina Rosendahl'></img>
         
         <p>I am a Kansas City based Full Stack Web Developer. I am a junior web developer with good knowledge of front-end and back-end techniques.</p>
         <p>
