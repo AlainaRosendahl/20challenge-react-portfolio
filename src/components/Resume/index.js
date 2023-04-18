@@ -24,7 +24,7 @@ return(
                     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="inkedIn"/></a>
                 </p>
                
-               <a href="" class="link">Download Resume (not available yet)</a>
+               <a class="link">Download Resume</a>
                
             </div>
         </div>
