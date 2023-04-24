@@ -4,12 +4,12 @@ body {
 }
 
 :root {
-  --cadet-blue: #9D8189;
-  --white: #FFE5D9;
-  --blue-sapphire: #F1F7F9;
-  --cultured: #FFCAD4;
+  --cadet-blue: #022B3A;
+  --white: #EAF2EF;
+  --blue-sapphire: #918868;
+  --cultured: #022B3A;
   --dark-salmon: #F4ACB7;
-  --eerie-black: #9D8189;
+  --eerie-black: #eff7f3;
 }
 
 * {
